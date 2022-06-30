@@ -1,6 +1,7 @@
 package com.knoldus.simplemockito.controller;
 
 import java.util.List;
+import java.util.Optional;
 
 import com.knoldus.simplemockito.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -29,7 +30,7 @@ public class EmployeeController{
     }
 
     @GetMapping("/getEmployeeByID/{id}")
-    public List<Employee> findEmployeeByID(@PathVariable long id) {
+    public Optional<Employee> findEmployeeByID(@PathVariable long id) {
         return service.getEmployeebyID(id);
     }
 

@@ -7,5 +7,5 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import java.util.List;
 @EnableJpaRepositories
 public interface EmployeeRepository extends JpaRepository<Employee, Long> {
-    List<Employee> findByID(long id);
+//    List<Employee> findByID(long id);
 }
