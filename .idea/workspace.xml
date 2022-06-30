@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bde8960-df23-4695-9624-d53a2fa3d65a" name="Changes" comment="" />
+    <list default="true" id="fb91e7eb-e7d1-4327-a5f9-fc0d48390701" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,11 +11,6 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="Feature-RebaseTest" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -38,6 +33,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="fb91e7eb-e7d1-4327-a5f9-fc0d48390701" name="Changes" comment="" />
+      <created>1656567677494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656567677494</updated>
+    </task>
+    <servers />
+  </component>
       <changelist id="1bde8960-df23-4695-9624-d53a2fa3d65a" name="Changes" comment="" />
       <created>1656570539059</created>
       <option name="number" value="Default" />
